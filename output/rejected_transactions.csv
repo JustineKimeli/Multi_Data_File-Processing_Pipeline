@@ -1,0 +1,20 @@
+transaction_id,date,branch,customer_id,product,quantity,unit_price,payment_method,payment_ref,qty,cashier,source_file,row_number,rejection_reason
+TXN-1018,2026-10-02,Kisumu Mega,,Mumias Sugar 2kg,2,330,Cash,,,,transactions_2026-10-02.csv,4,Missing value: customer_id
+TXN-1019,2026-10-02,Nairobi Westlands,CUST-201,Ketepa Tea 250g,1,,M-Pesa,QJE4D1F6SO,,,transactions_2026-10-02.csv,5,Missing value: unit_price
+TXN-1012,2026-10-01,Kisumu Mega,CUST-604,Royco Mchuzi Mix 200g,3,95,M-Pesa,QJC3E4V7JK,,,transactions_2026-10-02.csv,6,Dupliacte trasaction ID: TXN-1012
+TXN-1021,2026-10-02,Nairobi CBD,CUST-230,Pishori Rice 5kg,,1150,Card,CRD-78012,,,transactions_2026-10-02.csv,8,Missing value: quantity
+TXN-1023,2026-10-02,Kisumu Mega,CUST-087,Unga Pembe 2kg,4,210,M-Pesa,QJE8H5K1WS,,,transactions_2026-10-02.csv,11,Dupliacte trasaction ID: TXN-1023
+TXN-1025,2026-10-02,,CUST-099,Royco Mchuzi Mix 200g,5,95,M-Pesa,QJF0K7M3YU,,,transactions_2026-10-02.csv,13,Missing value: branch
+TXN-1028,2026-10-02,Mombasa Nyali,CUST-412,Mumias Sugar 2kg,two,330,Cash,,,,transactions_2026-10-02.csv,16,Invalid numeric value for quantity:two
+TXN-1030,2026-10-03,Nairobi CBD,CUST-201,Kimbo 1kg,,520,M-Pesa,QJG1A3C5EF,1,Wanjiru,transactions_2026-10-03.csv,2,Missing required columns: quantity
+TXN-1031,2026-10-03,Mombasa Nyali,CUST-310,Unga Pembe 2kg,,210,M-Pesa,QJG2B4D6FG,3,Hassan,transactions_2026-10-03.csv,3,Missing required columns: quantity
+TXN-1032,2026-10-03,Kisumu Mega,CUST-087,Ketepa Tea 250g,,185,Cash,,2,Achieng,transactions_2026-10-03.csv,4,Missing required columns: quantity
+TXN-1033,2026-10-03,Nairobi Westlands,CUST-733,Pishori Rice 5kg,,1150,Card,CRD-78240,1,Kamau,transactions_2026-10-03.csv,5,Missing required columns: quantity
+TXN-1034,2026-10-03,Nakuru Town,CUST-518,Royco Mchuzi Mix 200g,,95,M-Pesa,QJG5E7G9JK,6,Chebet,transactions_2026-10-03.csv,6,Missing required columns: quantity
+TXN-1029,2026-10-02,Kisumu Mega,CUST-145,Elianto Oil 3L,,1020,M-Pesa,QJF4P2R7CY,1,Achieng,transactions_2026-10-03.csv,7,Missing required columns: quantity
+TXN-1035,2026-10-03,Nairobi CBD,CUST-230,Brookside Milk 500ml,,65,M-Pesa,QJG6F8H1KL,-4,Wanjiru,transactions_2026-10-03.csv,8,Missing required columns: quantity
+TXN-1036,2026-10-03,Mombasa Nyali,CUST-412,Mumias Sugar 2kg,,330,M-Pesa,QJG7G9J2LM,2,Hassan,transactions_2026-10-03.csv,9,Missing required columns: quantity
+TXN-1037,2026-10-03,Kisumu Mega,CUST-604,Elianto Oil 3L,,1020,M-Pesa,QJG8H1K3MN,1,Achieng,transactions_2026-10-03.csv,10,Missing required columns: quantity
+TXN-1038,2026-10-03,Nairobi Westlands,CUST-145,Unga Pembe 2kg,,210,Cash,,5,Kamau,transactions_2026-10-03.csv,11,Missing required columns: quantity
+TXN-1039,2026-10-03,Nakuru Town,CUST-099,Kimbo 1kg,,520,M-Pesa,QJH0K3M5PQ,1,Chebet,transactions_2026-10-03.csv,12,Missing required columns: quantity
+TXN-1040,2026-10-03,Nairobi CBD,CUST-201,Ketepa Tea 250g,,185,M-Pesa,QJH1L4N6QR,2,Wanjiru,transactions_2026-10-03.csv,13,Missing required columns: quantity
