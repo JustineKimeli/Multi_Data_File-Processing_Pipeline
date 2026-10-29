@@ -1,0 +1,14 @@
+==========================================
+MULTI-FILE TRANSACTION PIPELINE SUMMARY
+==========================================
+Files processed:       3
+Rows read:             43
+Rows Accepted:         34
+ - Missing Values:     4
+ - Invalid numbers:    2
+ - Duplicate IDs:      3
+Rows Rejected:         9
+Total  Revenue (KES):   22775.00
+Run Finished At:       2026-10-29T03:28:13.444244+00:00
+============================================
+Status: SUCCESS
