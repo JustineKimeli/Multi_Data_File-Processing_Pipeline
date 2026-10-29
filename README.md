@@ -88,7 +88,7 @@ If the first occurrence is itself rejected for another validation error, the cur
 
 
 # Output Files
-** consolidated_transactions.csv**
+**consolidated_transactions.csv**
 
 It contains accepted transactions with standardized columns, including transaction_id, date, branch, customer_id, product, quantity, unit_price, line_total, payment_method, payment_ref, and source_file.
 
